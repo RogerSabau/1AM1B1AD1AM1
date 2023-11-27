@@ -1,0 +1,12 @@
+body {
+    padding: 20px;
+}
+footer {
+    color: white;
+    position: fixed;
+    bottom: 20px;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
